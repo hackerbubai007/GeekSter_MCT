@@ -13,6 +13,7 @@ The project was created using the following tools:
 1. Html
 2. CSS
 3. Remixicon
+
 The project was tested on the following browsers:
 1. Google chrome
 2. Mozila firefox
