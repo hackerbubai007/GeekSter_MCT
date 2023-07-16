@@ -18,9 +18,9 @@ The project was tested on the following browsers:
 1. Google chrome
 2. Mozila firefox
 
-3. # Auther
-4. Dipankar Mandal
+ # Auther
+ Dipankar Mandal
 
-5. # Contact
-6. dipankarmandal98989898@gmail.com
-7. 
+ # Contact
+ dipankarmandal98989898@gmail.com
+ 
